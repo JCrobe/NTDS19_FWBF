@@ -21,7 +21,7 @@ In  particular, per track metadata such as ID, title, artist, genres and play co
 The data can be accessed at [this link](https://github.com/mdeff/fma).
 
 # Our final data story:
-The code for data scraping, preprocessing, network analysis and predictions can be found on our this repository. The data story we created from this material and slides we used to present our work are just a [click away](https://drive.google.com/drive/folders/1J6MsVLlporCuafAk5HRxlQcDVDAnDyy4?usp=sharing). We hope you'll enjoy exploring it!
+The code for data scraping is written in the [SpotipyScrapper.ipynb](https://github.com/JCrobe/NTDS19_FWBF/blob/master/SpotipyScrapper.ipynb) file, and the main part of the analysis, i.e. preprocessing, network analysis and predictions can be found on the [FWBF_Analysis](https://github.com/JCrobe/NTDS19_FWBF/blob/master/FWBF_Analysis.ipynb) file. The data story we created from this material and slides we used to present our work are just a [click away](https://drive.google.com/drive/folders/1J6MsVLlporCuafAk5HRxlQcDVDAnDyy4?usp=sharing). We hope you'll enjoy exploring it!
 
 # Team members:
 
