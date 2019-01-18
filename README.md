@@ -25,12 +25,10 @@ The code for data scraping, preprocessing, network analysis and predictions can 
 
 # Team members:
 
-
+* <a href="mailto:tobias.barblan@epfl.ch">Tobias Barblan</a>
+* * <a href="mailto:laura.bujouves@epfl.ch">Laura Bujouves</a>
+* <a href="mailto:liana.mehrabyan@epfl.ch">Liana Mehrabyan</a>
 * <a href="mailto:jeremy.wanner@epfl.ch">Jeremy Wanner</a>
-* Tobias Barblan
-* Laura Bujouves
-* Liana Mehrabyan
-* Jeremy Wanner
 
 # Acknowledgements
 A final word for the amazing working team of the NTDS course at EPFL: our professors- Frossard Pascal, Vandergheynst Pierre, head TA Michael Defferrard and others, thank you! The silhouettes created by James Fenton for the Noun Project were used for the basis of the graphical title of the project.
