@@ -1,5 +1,6 @@
 # *Friends Will Be Friends: A Network Tour of Musical Friendship*
 
+![alt text](https://github.com/JCrobe/NTDS19_FWBF/blob/master/FWBF_NTDS_Graphics.png)
 
 # Abstract
 Music  is  something  universal  and  has  beenknown  for  connecting  people  for  a  long  time.   
@@ -14,20 +15,20 @@ In this project:
 
 
 # Dataset
-For the first part of the project, 'Your top Songs of 2018' Spotify playlists of 23 volunteer users were scraped using Spotify API and Spotify package in python. 
+For the first part of the project, 'Your top Songs of 2018' Spotify playlists of 23 volunteer users were scraped using Spotify API and Spotify package in python.
 A dataset of 1274 artists and 2207 songs was created consisting of features as artist,  genre,  track  duration, musical characteristics such as acousticness, tempo,liveliness, danceability, key, loudness etc.
 
 For the second part of the project —track popularity prediction, dataset  of  an  interactive,  audio  downloads  library  called  Free  Music  Archive(FMA)  was  used.   
-In  particular,  per track  metadata such as ID, title, artist, genres and play counts along  with  audio  features  provided  by  Echonest(now Spotify) of 13,129 tracks were used. 
+In  particular,  per track  metadata such as ID, title, artist, genres and play counts along  with  audio  features  provided  by  Echonest(now Spotify) of 13,129 tracks were used.
 The data can be accessed at [this link](https://github.com/mdeff/fma).
 
 # Our final data story:
-A full report of our work as well as the code for data scraping, preprocessing, network analysis and predictions can be found on our [github repository](https://nicolasfontbonne.github.io/). 
+A full report of our work as well as the code for data scraping, preprocessing, network analysis and predictions can be found on our [github repository](https://nicolasfontbonne.github.io/).
 We hope you'll enjoy exploring it!
 
 
 # Team members:
- 
+
 * Tobias Barblan
 * Laura Bujouves
 * Liana Mehrabyan
