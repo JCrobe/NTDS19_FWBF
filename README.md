@@ -1,5 +1,3 @@
-# *Friends Will Be Friends: A Network Tour of Musical Friendship*
-
 ![alt text](https://github.com/JCrobe/NTDS19_FWBF/blob/master/FWBF_NTDS_Graphics.png)
 
 # Abstract
