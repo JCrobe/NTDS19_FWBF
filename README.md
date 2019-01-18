@@ -13,17 +13,15 @@ In this project:
 
 
 # Dataset
-For the first part of the project, 'Your top Songs of 2018' Spotify playlists of 23 volunteer users were scraped using Spotify API and Spotify package in python.
-A dataset of 1274 artists and 2207 songs was created consisting of features as artist,  genre,  track  duration, musical characteristics such as acousticness, tempo,liveliness, danceability, key, loudness etc.
+For the first part of the project, ['Your top Songs of 2018'](spotifywrapped.com) Spotify playlists of 25 volunteer users were scraped using Spotify [API](https://developer.spotify.com/documentation/web-api/) and [Spotipy](https://github.com/plamere/spotipy) package in Python.
+A dataset of 1274 artists and 2207 songs was created consisting of features as artist,  genre,  track  duration, musical characteristics such as acousticness, tempo, liveliness, danceability, key, loudness etc.
 
 For the second part of the project —track popularity prediction, dataset  of  an  interactive,  audio  downloads  library  called  Free  Music  Archive(FMA)  was  used.   
-In  particular,  per track  metadata such as ID, title, artist, genres and play counts along  with  audio  features  provided  by  Echonest(now Spotify) of 13,129 tracks were used.
+In  particular,  per track  metadata such as ID, title, artist, genres and play counts along  with  audio  features  provided  by Echonest (now Spotify) of 13,129 tracks were used.
 The data can be accessed at [this link](https://github.com/mdeff/fma).
 
 # Our final data story:
-A full report of our work as well as the code for data scraping, preprocessing, network analysis and predictions can be found on our [github repository](https://nicolasfontbonne.github.io/).
-We hope you'll enjoy exploring it!
-
+A full report of our work as well as the code for data scraping, preprocessing, network analysis and predictions can be found on our this repository! We hope you'll enjoy exploring it!
 
 # Team members:
 
@@ -33,5 +31,4 @@ We hope you'll enjoy exploring it!
 * Jeremy Wanner
 
 # Acknowledgements
-A final word for the amazing working team of the NTDS course at EPFL: our professors- Frossard Pascal, Vandergheynst Pierre, head TA Michael Defferrard and others, thank you!
-# NTDS19_FWBF
+A final word for the amazing working team of the NTDS course at EPFL: our professors- Frossard Pascal, Vandergheynst Pierre, head TA Michael Defferrard and others, thank you! The silhouettes created by James Fenton for the Noun Project were used for the basis of the graphical title of the project.
