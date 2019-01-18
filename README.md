@@ -16,8 +16,8 @@ In this project:
 For the first part of the project, ['Your top Songs of 2018'](spotifywrapped.com) Spotify playlists of 25 volunteer users were scraped using Spotify [API](https://developer.spotify.com/documentation/web-api/) and [Spotipy](https://github.com/plamere/spotipy) package in Python.
 A dataset of 1274 artists and 2207 songs was created consisting of features as artist,  genre,  track  duration, musical characteristics such as acousticness, tempo, liveliness, danceability, key, loudness etc.
 
-For the second part of the project —track popularity prediction, dataset  of  an  interactive,  audio  downloads  library  called  [Free  Music  Archive](http://www.freemusicarchive.org/) (FMA) was  used.   
-In  particular,  per track  metadata such as ID, title, artist, genres and play counts along  with  audio  features  provided  by [Echonest](http://the.echonest.com/) (owned by Spotify since 2014) of 13,129 tracks were used.
+For the second part of the project, the track popularity prediction, a dataset from an interactive, audio downloads library  called the [Free  Music  Archive](http://www.freemusicarchive.org/) (FMA) was used.   
+In  particular, per track metadata such as ID, title, artist, genres and play counts along  with  audio  features  provided  by [Echonest](http://the.echonest.com/) (owned by Spotify since 2014) of 13,129 tracks were used.
 The data can be accessed at [this link](https://github.com/mdeff/fma).
 
 # Our final data story:
