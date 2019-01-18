@@ -1,7 +1,7 @@
 ![alt text](https://github.com/JCrobe/NTDS19_FWBF/blob/master/FWBF_NTDS_Graphics.png)
 
 # Abstract
-Music  is  something  universal  and  has  beenknown  for  connecting  people  for  a  long  time.   
+Music  is  something  universal and has been known for connecting people for a long time.   
 In the age when diversity in music industry is at its peak, it seems that music has lost its universality and people’s musical taste varies to a great extent.
 
 In this project:
@@ -26,7 +26,7 @@ The code for data scraping, preprocessing, network analysis and predictions can 
 # Team members:
 
 * <a href="mailto:tobias.barblan@epfl.ch">Tobias Barblan</a>
-* * <a href="mailto:laura.bujouves@epfl.ch">Laura Bujouves</a>
+* <a href="mailto:laura.bujouves@epfl.ch">Laura Bujouves</a>
 * <a href="mailto:liana.mehrabyan@epfl.ch">Liana Mehrabyan</a>
 * <a href="mailto:jeremy.wanner@epfl.ch">Jeremy Wanner</a>
 
